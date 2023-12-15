@@ -1,0 +1,1 @@
+# Sum-of-Positive-CodeWars-challenge
